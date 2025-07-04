@@ -1,0 +1,19 @@
+JS - OPERATORS : 
+
+Arithmatic OP   -  + - * / % **
+Relational OP   -  < <= > >=
+Logical OP      -  && ||
+Equality OP     -  == === !=
+Ternary OP      -  ? :
+Increment & Decrement Op  -  ++ -- 
+
+
+
+In Logical OP (&&) - Anything is false it will be false
+In Logical OP (||) - Anything is true it will be true
+
+
+
+Number + number = addition
+Str + number = Concatination
+Undefined + number = Not a number(NAN)

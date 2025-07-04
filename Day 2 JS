@@ -1,0 +1,83 @@
+JAVA SCRIPT:
+__________________________________________________________
+
+
+* any JavaScript file contain class, function, object, variable.
+
+IDENTIFIER:
+ 
+  * Identifier contains a to z, A to Z, 0 to 9,underscore(_),$.
+  * Identifier should not start with 0 TO 9.
+  * Identifier should not contain any special character/symbols.
+  * Identifier should not use keyword identifier.
+  * Identifier are case sensitive.
+  * There are 65 keyword.
+
+Example:
+ 
+valid: 
+  
+ * ename
+ * emp_Id
+ * _num
+
+invalid:
+
+ * &name
+ * functionname
+ * 19number.
+__________________________________________________________________
+
+KEYWORDS
+
+Datatype      - var,let,const
+	        true,false
+	        undefined,null
+
+Control Flow  - if,else,switch,case, break, default, for, while, do ,
+	        of, continue.
+
+Functions     - function,return
+
+OOP           - class, new, this, super,extends
+
+Error handling- try, catch, throw, finally, throws
+
+Es6           - import, export, async, await.
+
+__________________________________________________________________
+
+ *PRIMITIVE DATATYPE     : Holding single value(7).
+			   (number, string, Boolean, undefined, null, symbol, bigint)
+
+
+ *NON-PRIMITIVE DATATYPE : Holding multiple of value(1)
+			   (Object)
+
+Example:
+
+primitive datatype:
+
+ var price=399;
+ var rating=4.1;
+ var prod_name="Mens check shirt"
+ var avail="y"
+ var discount= true;
+ var status;
+
+ console.log(typeof price)//number
+ console.log(typeof rating)//number
+ console.log(typeof prod_name)//String
+ console.log(typeof avail)//string
+ console.log(typeof discout)//string
+ console.log(typeof status)//undefined
+
+Non primitive datatype:
+
+ In primitive datatype it store multiple value so we can use array, js object
+ 
+ Example:
+    var sizes=[38,40,42,44]
+    console.log(typeof sizes)//objecgt
+
+

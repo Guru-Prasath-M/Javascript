@@ -1,0 +1,58 @@
+javaScript :
+_____
+
+PROGRAMMING LANGUAGE (PL)                             
+
+* . Scripting PL for web interactivity
+* . javascript is dynamic typed
+* . Ligth weight PL
+* . Loosly typed PL and a dynamic PL 
+* . var is a global space
+* . let is a local space
+
+* . Main disadvantage for JS is security and runs on the client side only
+* . comment are non executive code 
+* . // - single line comment
+* . /* */ - Multi line comment
+* . In JS there are 65+ keywords
+____________
+
+Part - 1 :
+
+JS - intro 
+   - statements , comments
+   - Identifier , rules , Keywords/reserved words
+   -Datatype
+   -operations
+   -Control flow st
+   -function
+ ____________
+
+Part - 2 :
+
+JS - OOPs
+   - class
+   - this
+   - super
+
+Error Handling
+ try
+ catch 
+ throw
+ finaly
+
+_____________
+
+part - 3 :
+
+ Array 
+ Object
+ String , Date
+ Event handling
+ DOM
+ fat array function
+
+____________
+
+Part - 4 :
+ES6

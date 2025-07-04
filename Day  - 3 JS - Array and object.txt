@@ -1,0 +1,18 @@
+Array :
+
+Group of elements as one entity
+using  []
+It allowed duplicates and heterogenous elements
+Array elements are storing based on indexing (0 to n-1)
+Negative (-ve) indexing is not possible
+Array is a iterable object using(for loop , while loop , do while loop , for_of)
+
+
+JavaScript Object : 
+
+Group of key:values ('eid' : 101) pairs as one entity
+using {}
+Duplicate keys are not allowed
+group of data & functionality as one entity
+including concept not applicable
+JS object is not iterable object
