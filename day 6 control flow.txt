@@ -1,0 +1,32 @@
+07/07/2025
+
+CONTROL FLOW STATEMENT:
+
+   CONDITIONAL STATEMENT:
+	*if statement.
+	*if else statement.
+	*switch
+ 	    case
+	    break
+	    default
+   ITERATIVE STATEMENT:
+	*for loop
+	*while loop
+	*do while loop
+	*for of
+	*for in
+
+  Conditional statement:
+	
+	     if else Statement:
+		Syntax:
+		    if(condition){
+			statement1};
+		    else{
+		statement2};
+ iterative Statement:
+  for loop:
+   	syntax:
+	    for(initialization; condition; increment/decrement){
+		statement1;
+		statement2;}
