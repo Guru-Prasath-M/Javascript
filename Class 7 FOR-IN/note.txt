@@ -1,0 +1,2 @@
+How ri verify Js array is empty or not?
+how to verify 
