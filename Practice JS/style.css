@@ -1,0 +1,24 @@
+body{
+    background-color: rgb(241, 208, 241);
+}
+
+
+.nav{
+    background-color: rgb(246, 187, 246);
+    color: black;
+    text-align: center;
+}
+
+.event1{
+    display: flex;
+    position: relative;
+    margin-top: 50px;
+    justify-content: space-between;
+}
+
+.event2{
+    margin-top: 150px;
+    display: flex;
+    position: relative;
+    justify-content: space-between;
+}
