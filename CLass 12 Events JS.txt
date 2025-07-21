@@ -1,0 +1,2 @@
+JS EVENTS :
+MOUSE Events : onmouseover , onmouseout , onmmousemove , onclick , ondoubleclick

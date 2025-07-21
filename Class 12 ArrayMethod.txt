@@ -1,0 +1,8 @@
+Class Array :
+length ()
+push(){} = Append element end of array & return new length of array
+pop(){} = Remove last element from array
+shift(){} = Shift() : remove first element from array
+unshift(){} = Add element at starting of array
+reverse(){}
+index of(){}
