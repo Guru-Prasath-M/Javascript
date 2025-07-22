@@ -1,0 +1,4 @@
+INHERITANCE:
+
+Inheritance prperty from one to another class
+Resuing existing class functionalities & extends & adding new features 
