@@ -1,37 +1,27 @@
 //Inheritance JS
 //SUPER EXAMPLE JS
 
-class account{
-    acc_name;
-    acc_address;
-    acc_phone;
-    constructor(name,address,phone){
-        this.acc_name = name;
-        this.acc_address = address;
-        this.acc_phone = phone;
+class Account{
+    acc_Name;
+    acc_Address;
+    acc_Mobile;
+    constructor(name,addr,phno){
+        console.log("Account class Constructor")
+        this.acc_Name=name;
+        this.acc_Address=addr;
+        this.acc_Mobile=phno;
     }
 }
-class SA extends account{
-    acc_id;
-    acc_bal;
-    min_bal = 500;
-    constructor(id,name,address,phone,amount){
-        super(name,address,phone);
-        this.acc_id=id;
-        this.acc_bal=bal;
+class SA extends Account{
+    acc_Id;
+    acc_Bal;
+    min_Bal=500;
+    constructor(id,name,addr,phno,amount){
+        super(name,addr,phno);
+        console.log("SA class - constructor")
+        this.acc_Id=id;
+        this.acc_Bal=amount;
     }
 }
-
-let s1 = new SA(101,'Guru','Erode',7894561230,5000)
-console.log(s1)
-
-class CA extends account{
-    acc_id;
-    acc_bal;
-    min_bal = 5000;
-    deposite_amount(amount){}
-    withdrawl(amount){}
-    get_bal(){}
-}
-
-new CA(102,'Harish','ND',3216547890,50001)
+let sa1=new SA(101,'Rahul','Wayanad',9591,5001)
+console.log(sa1)
